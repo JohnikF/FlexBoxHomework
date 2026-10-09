@@ -1,0 +1,24 @@
+body {
+    padding: 50px;
+    background-color: #DADADA;
+    margin: 0;
+}
+
+.flex-container {
+    height: 800px;
+    border: 10px solid #2196F3;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.flex-block {
+    font-size: 30px;
+    padding: 20px;
+    background-color: #00FFFF;
+    border: 5px solid #D2691E;
+    text-align: center;
+    font-weight: 700;
+}
